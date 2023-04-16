@@ -1,15 +1,14 @@
 <div align="center"><img src="https://github.com/rupsa14/rupsa14/blob/main/beam-woman-sitting-at-desk-and-programming.gif?raw=true" height="300rem"></div>
 <h1 align="center">Hi there 👋 I'm <a href="https://www.linkedin.com/in/anik-dutta-86526021b/">Rupsa Bandyopadhyay</a></h1>
-<p align="center">Diploma student at Technique Polytechnic Institute.Doing Competitive programming at Codechef,Full Stack Devoloper using MERN Stack 😉.Currently Learning Advnce DSA 😊.</p>
+<p align="center">Diploma student at Technique Polytechnic Institute 😉.</p>
 <br/>
 <p1>
  <div class="head">
   <img align="right" style="width:29rem" src ="https://camo.githubusercontent.com/6607041227d81f650340ff070cc2843518acad359b57e5bb054a9fb7127aa041/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323634363432332f73637265656e73686f74732f353530373139362f636f6d70757465722e676966" >
   <h2 align="left">💁‍♂️About Me</h2>
 <ul line-height="3">
- <li>🌱 I’m currently learning React Js and Advance DSA<br/><br/>
  <li>💬 Ask me about Web Devolopment <br/><br/>
- <li>🎯Goal in 2022 is to be a expert Full Stack Web Devoloper <br/><br/>
+ <li>🎯Goal in 2023 is to be a expert Full Stack Web Devoloper <br/><br/>
  <li>🤷‍ For Detailed Information check <a href="https://drive.google.com/file/d/1U8xEu7rGUjt87ZB8FFtE7vKl7jKqTMHZ/view?usp=sharing">My RESUME</a><br/><br/>
  <li>📫 How to reach me: <a href="mailto:@banerjeerupsa188@gmail.com">banerjeerupsa188@gmail.com</a> <br/><br/>
  </ul>
